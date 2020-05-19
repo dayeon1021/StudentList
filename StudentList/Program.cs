@@ -8,6 +8,11 @@ namespace StudentList
 {
     class Program
     {
+        class Teacher
+        {
+            public String name;
+            public int arde;
+        }
         static void Main(string[] args)
         {
         }
